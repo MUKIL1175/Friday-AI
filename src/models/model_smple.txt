@@ -1,0 +1,1 @@
+Paste the models with q4_k_s or q4_k_s in this folder
