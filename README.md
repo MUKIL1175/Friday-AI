@@ -1,7 +1,7 @@
 
 # Friday - Offline AI Assistant for MacBook Air (M-Series)
 
-[Friday AI Assistant](https://img.shields.io/badge/Platform-macOS-blue) ![Friday AI Assistant](https://img.shields.io/badge/Model-GGUF-green) ![Friday AI Assistant](https://img.shields.io/badge/Privacy-Offline-purple) ![Friday AI Assistant](https://img.shields.io/badge/Python-3.9%2B-yellow) ![Friday AI Assistant](https://img.shields.io/badge/UI-Streamlit-red)
+[](https://img.shields.io/badge/Platform-macOS-blue) ![Friday AI Assistant](https://img.shields.io/badge/Model-GGUF-green) ![Friday AI Assistant](https://img.shields.io/badge/Privacy-Offline-purple) ![Friday AI Assistant](https://img.shields.io/badge/Python-3.9%2B-yellow) ![Friday AI Assistant](https://img.shields.io/badge/UI-Streamlit-red)
 
 Friday is a privacy-focused, offline AI assistant specifically optimized for MacBook Air with Apple Silicon (M1/M2/M3 chips). It runs completely offline without requiring internet connectivity, ensuring your conversations remain private and secure.
 
