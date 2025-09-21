@@ -140,7 +140,7 @@ Edit `src/persona.json` to customize your AI assistant's personality:
 }
 ```
 
-## 🏎️ Performance Tips
+## Performance Tips
 
 1. **Use Quantized Models**: Q4_K_M models provide the best balance of quality and performance
 2. **Limit Context**: Keep context window reasonable (512-1024 tokens) for better performance
@@ -218,7 +218,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Friday - Your private AI companion for MacBook Air* 🍎🤖
+*Friday - Your private AI companion for MacBook Air* 
 
 > "Privacy isn't an option, it's a requirement. Friday keeps your conversations where they belong - on your device."
-```
